@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  background-color: #f8f9fa;
+}
+
+h1,
+p {
+  text-align: center;
+  font-weight: 500;
+  margin: 0;
+  font-size: 34px;
+  line-height: 48px;
+  color: #2f72ff;
+}
+
+.navbar-brand {
+  color: #2f72ff;
+}
+
+.city {
+  text-align: center;
+  padding-bottom: 15px;
+}
+.temp {
+  margin: 10px;
+  text-align: center;
+  color: #2f72ff;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.btn {
+  color: #809fff;
+  background-color: #f8f9fa;
+}
+.btn:hover {
+  color: #2f72ff;
+  background-color: #aed1ff;
+}
+
+
